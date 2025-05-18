@@ -1,0 +1,80 @@
+{
+    "response": {
+      "GeoObjectCollection": {
+        "metaDataProperty": {
+          "GeocoderResponseMetaData": {
+            "request": "Якутск город",
+            "results": "10",
+            "found": "1"
+          }
+        },
+        "featureMember": [
+          {
+            "GeoObject": {
+              "metaDataProperty": {
+                "GeocoderMetaData": {
+                  "precision": "other",
+                  "text": "Россия, Республика Саха (Якутия), Якутск",
+                  "kind": "locality",
+                  "Address": {
+                    "country_code": "RU",
+                    "formatted": "Россия, Республика Саха (Якутия), Якутск",
+                    "Components": [
+                      {
+                        "kind": "country",
+                        "name": "Россия"
+                      },
+                      {
+                        "kind": "province",
+                        "name": "Дальневосточный федеральный округ"
+                      },
+                      {
+                        "kind": "province",
+                        "name": "Республика Саха (Якутия)"
+                      },
+                      {
+                        "kind": "area",
+                        "name": "городской округ Якутск"
+                      },
+                      {
+                        "kind": "locality",
+                        "name": "Якутск"
+                      }
+                    ]
+                  },
+                  "AddressDetails": {
+                    "Country": {
+                      "AddressLine": "Россия, Республика Саха (Якутия), Якутск",
+                      "CountryNameCode": "RU",
+                      "CountryName": "Россия",
+                      "AdministrativeArea": {
+                        "AdministrativeAreaName": "Республика Саха (Якутия)",
+                        "SubAdministrativeArea": {
+                          "SubAdministrativeAreaName": "городской округ Якутск",
+                          "Locality": {
+                            "LocalityName": "Якутск"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "name": "Якутск",
+              "description": "Республика Саха (Якутия), Россия",
+              "boundedBy": {
+                "Envelope": {
+                  "lowerCorner": "129.523724 61.909348",
+                  "upperCorner": "129.858796 62.185341"
+                }
+              },
+              "uri": "ymapsbm1://geo?data=Cgg1MzA2NzY4OBJI0KDQvtGB0YHQuNGPLCDQoNC10YHQv9GD0LHQu9C40LrQsCDQodCw0YXQsCAo0K_QutGD0YLQuNGPKSwg0K_QutGD0YLRgdC6IgoNcLsBQxXgG3hC",
+              "Point": {
+                "pos": "129.732178 62.027221"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
