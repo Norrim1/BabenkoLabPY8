@@ -1,0 +1,80 @@
+{
+    "response": {
+      "GeoObjectCollection": {
+        "metaDataProperty": {
+          "GeocoderResponseMetaData": {
+            "request": "Уфа город",
+            "results": "10",
+            "found": "1"
+          }
+        },
+        "featureMember": [
+          {
+            "GeoObject": {
+              "metaDataProperty": {
+                "GeocoderMetaData": {
+                  "precision": "other",
+                  "text": "Россия, Республика Башкортостан, Уфа",
+                  "kind": "locality",
+                  "Address": {
+                    "country_code": "RU",
+                    "formatted": "Россия, Республика Башкортостан, Уфа",
+                    "Components": [
+                      {
+                        "kind": "country",
+                        "name": "Россия"
+                      },
+                      {
+                        "kind": "province",
+                        "name": "Приволжский федеральный округ"
+                      },
+                      {
+                        "kind": "province",
+                        "name": "Республика Башкортостан"
+                      },
+                      {
+                        "kind": "area",
+                        "name": "городской округ Уфа"
+                      },
+                      {
+                        "kind": "locality",
+                        "name": "Уфа"
+                      }
+                    ]
+                  },
+                  "AddressDetails": {
+                    "Country": {
+                      "AddressLine": "Россия, Республика Башкортостан, Уфа",
+                      "CountryNameCode": "RU",
+                      "CountryName": "Россия",
+                      "AdministrativeArea": {
+                        "AdministrativeAreaName": "Республика Башкортостан",
+                        "SubAdministrativeArea": {
+                          "SubAdministrativeAreaName": "городской округ Уфа",
+                          "Locality": {
+                            "LocalityName": "Уфа"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "name": "Уфа",
+              "description": "Республика Башкортостан, Россия",
+              "boundedBy": {
+                "Envelope": {
+                  "lowerCorner": "55.778561 54.500719",
+                  "upperCorner": "56.297374 54.960131"
+                }
+              },
+              "uri": "ymapsbm1://geo?data=Cgg1MzEwNTMwORJD0KDQvtGB0YHQuNGPLCDQoNC10YHQv9GD0LHQu9C40LrQsCDQkdCw0YjQutC-0YDRgtC-0YHRgtCw0L0sINCj0YTQsCIKDb7VX0IVy_BaQg,,",
+              "Point": {
+                "pos": "55.958736 54.735152"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }

@@ -1,0 +1,80 @@
+{
+    "response": {
+      "GeoObjectCollection": {
+        "metaDataProperty": {
+          "GeocoderResponseMetaData": {
+            "request": "Киселёвск город",
+            "results": "10",
+            "found": "1"
+          }
+        },
+        "featureMember": [
+          {
+            "GeoObject": {
+              "metaDataProperty": {
+                "GeocoderMetaData": {
+                  "precision": "other",
+                  "text": "Россия, Кемеровская область — Кузбасс, Киселёвск",
+                  "kind": "locality",
+                  "Address": {
+                    "country_code": "RU",
+                    "formatted": "Россия, Кемеровская область — Кузбасс, Киселёвск",
+                    "Components": [
+                      {
+                        "kind": "country",
+                        "name": "Россия"
+                      },
+                      {
+                        "kind": "province",
+                        "name": "Сибирский федеральный округ"
+                      },
+                      {
+                        "kind": "province",
+                        "name": "Кемеровская область — Кузбасс"
+                      },
+                      {
+                        "kind": "area",
+                        "name": "Киселёвский городской округ"
+                      },
+                      {
+                        "kind": "locality",
+                        "name": "Киселёвск"
+                      }
+                    ]
+                  },
+                  "AddressDetails": {
+                    "Country": {
+                      "AddressLine": "Россия, Кемеровская область — Кузбасс, Киселёвск",
+                      "CountryNameCode": "RU",
+                      "CountryName": "Россия",
+                      "AdministrativeArea": {
+                        "AdministrativeAreaName": "Кемеровская область — Кузбасс",
+                        "SubAdministrativeArea": {
+                          "SubAdministrativeAreaName": "Киселёвский городской округ",
+                          "Locality": {
+                            "LocalityName": "Киселёвск"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "name": "Киселёвск",
+              "description": "Кемеровская область — Кузбасс, Россия",
+              "boundedBy": {
+                "Envelope": {
+                  "lowerCorner": "86.45839 53.940944",
+                  "upperCorner": "86.799373 54.088931"
+                }
+              },
+              "uri": "ymapsbm1://geo?data=Cgg1MzExMDM2ORJa0KDQvtGB0YHQuNGPLCDQmtC10LzQtdGA0L7QstGB0LrQsNGPINC-0LHQu9Cw0YHRgtGMIOKAlCDQmtGD0LfQsdCw0YHRgSwg0JrQuNGB0LXQu9GR0LLRgdC6IgoNA0atQhU4BlhC",
+              "Point": {
+                "pos": "86.636742 54.006072"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }

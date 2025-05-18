@@ -1,0 +1,80 @@
+{
+    "response": {
+      "GeoObjectCollection": {
+        "metaDataProperty": {
+          "GeocoderResponseMetaData": {
+            "request": "Хабаровск город",
+            "results": "10",
+            "found": "1"
+          }
+        },
+        "featureMember": [
+          {
+            "GeoObject": {
+              "metaDataProperty": {
+                "GeocoderMetaData": {
+                  "precision": "other",
+                  "text": "Россия, Хабаровск",
+                  "kind": "locality",
+                  "Address": {
+                    "country_code": "RU",
+                    "formatted": "Россия, Хабаровск",
+                    "Components": [
+                      {
+                        "kind": "country",
+                        "name": "Россия"
+                      },
+                      {
+                        "kind": "province",
+                        "name": "Дальневосточный федеральный округ"
+                      },
+                      {
+                        "kind": "province",
+                        "name": "Хабаровский край"
+                      },
+                      {
+                        "kind": "area",
+                        "name": "городской округ Хабаровск"
+                      },
+                      {
+                        "kind": "locality",
+                        "name": "Хабаровск"
+                      }
+                    ]
+                  },
+                  "AddressDetails": {
+                    "Country": {
+                      "AddressLine": "Россия, Хабаровск",
+                      "CountryNameCode": "RU",
+                      "CountryName": "Россия",
+                      "AdministrativeArea": {
+                        "AdministrativeAreaName": "Хабаровский край",
+                        "SubAdministrativeArea": {
+                          "SubAdministrativeAreaName": "городской округ Хабаровск",
+                          "Locality": {
+                            "LocalityName": "Хабаровск"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "name": "Хабаровск",
+              "description": "Россия",
+              "boundedBy": {
+                "Envelope": {
+                  "lowerCorner": "134.897958 48.326799",
+                  "upperCorner": "135.221181 48.603009"
+                }
+              },
+              "uri": "ymapsbm1://geo?data=Cgg1MzA2NzcyMBIg0KDQvtGB0YHQuNGPLCDQpdCw0LHQsNGA0L7QstGB0LoiCg1pEgdDFcHrQUI,",
+              "Point": {
+                "pos": "135.071917 48.480229"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }

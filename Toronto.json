@@ -1,0 +1,123 @@
+{
+    "response": {
+      "GeoObjectCollection": {
+        "metaDataProperty": {
+          "GeocoderResponseMetaData": {
+            "request": "Торонто город",
+            "results": "10",
+            "found": "2"
+          }
+        },
+        "featureMember": [
+          {
+            "GeoObject": {
+              "metaDataProperty": {
+                "GeocoderMetaData": {
+                  "precision": "other",
+                  "text": "Канада, провинция Онтарио, Торонто",
+                  "kind": "locality",
+                  "Address": {
+                    "country_code": "CA",
+                    "formatted": "Канада, провинция Онтарио, Торонто",
+                    "Components": [
+                      {
+                        "kind": "country",
+                        "name": "Канада"
+                      },
+                      {
+                        "kind": "province",
+                        "name": "провинция Онтарио"
+                      },
+                      {
+                        "kind": "locality",
+                        "name": "Торонто"
+                      }
+                    ]
+                  },
+                  "AddressDetails": {
+                    "Country": {
+                      "AddressLine": "Канада, провинция Онтарио, Торонто",
+                      "CountryNameCode": "CA",
+                      "CountryName": "Канада",
+                      "AdministrativeArea": {
+                        "AdministrativeAreaName": "провинция Онтарио",
+                        "Locality": {
+                          "LocalityName": "Торонто"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "name": "Торонто",
+              "description": "провинция Онтарио, Канада",
+              "boundedBy": {
+                "Envelope": {
+                  "lowerCorner": "-79.652466 43.573646",
+                  "upperCorner": "-79.11239 43.85546"
+                }
+              },
+              "uri": "ymapsbm1://geo?data=CgoyMjQwNTc5MDAyEhhDYW5hZGEsIE9udGFyaW8sIFRvcm9udG8iCg0RyZ7CFS2pLkI,",
+              "Point": {
+                "pos": "-79.39271 43.665208"
+              }
+            }
+          },
+          {
+            "GeoObject": {
+              "metaDataProperty": {
+                "GeocoderMetaData": {
+                  "precision": "other",
+                  "text": "Канада, провинция Онтарио, Миссисауга",
+                  "kind": "locality",
+                  "Address": {
+                    "country_code": "CA",
+                    "formatted": "Канада, провинция Онтарио, Миссисауга",
+                    "Components": [
+                      {
+                        "kind": "country",
+                        "name": "Канада"
+                      },
+                      {
+                        "kind": "province",
+                        "name": "провинция Онтарио"
+                      },
+                      {
+                        "kind": "locality",
+                        "name": "Миссисауга"
+                      }
+                    ]
+                  },
+                  "AddressDetails": {
+                    "Country": {
+                      "AddressLine": "Канада, провинция Онтарио, Миссисауга",
+                      "CountryNameCode": "CA",
+                      "CountryName": "Канада",
+                      "AdministrativeArea": {
+                        "AdministrativeAreaName": "провинция Онтарио",
+                        "Locality": {
+                          "LocalityName": "Миссисауга"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "name": "Миссисауга",
+              "description": "провинция Онтарио, Канада",
+              "boundedBy": {
+                "Envelope": {
+                  "lowerCorner": "-79.775787 43.501001",
+                  "upperCorner": "-79.531418 43.719388"
+                }
+              },
+              "uri": "ymapsbm1://geo?data=CgoyMjQwMTExMjgxEhxDYW5hZGEsIE9udGFyaW8sIE1pc3Npc3NhdWdhIgoNgUmfwhWLWi5C",
+              "Point": {
+                "pos": "-79.643555 43.588424"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }

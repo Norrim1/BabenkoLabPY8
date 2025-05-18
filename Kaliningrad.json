@@ -1,0 +1,80 @@
+{
+    "response": {
+      "GeoObjectCollection": {
+        "metaDataProperty": {
+          "GeocoderResponseMetaData": {
+            "request": "Калининград город",
+            "results": "10",
+            "found": "1"
+          }
+        },
+        "featureMember": [
+          {
+            "GeoObject": {
+              "metaDataProperty": {
+                "GeocoderMetaData": {
+                  "precision": "other",
+                  "text": "Россия, Калининград",
+                  "kind": "locality",
+                  "Address": {
+                    "country_code": "RU",
+                    "formatted": "Россия, Калининград",
+                    "Components": [
+                      {
+                        "kind": "country",
+                        "name": "Россия"
+                      },
+                      {
+                        "kind": "province",
+                        "name": "Северо-Западный федеральный округ"
+                      },
+                      {
+                        "kind": "province",
+                        "name": "Калининградская область"
+                      },
+                      {
+                        "kind": "area",
+                        "name": "городской округ Калининград"
+                      },
+                      {
+                        "kind": "locality",
+                        "name": "Калининград"
+                      }
+                    ]
+                  },
+                  "AddressDetails": {
+                    "Country": {
+                      "AddressLine": "Россия, Калининград",
+                      "CountryNameCode": "RU",
+                      "CountryName": "Россия",
+                      "AdministrativeArea": {
+                        "AdministrativeAreaName": "Калининградская область",
+                        "SubAdministrativeArea": {
+                          "SubAdministrativeAreaName": "городской округ Калининград",
+                          "Locality": {
+                            "LocalityName": "Калининград"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "name": "Калининград",
+              "description": "Россия",
+              "boundedBy": {
+                "Envelope": {
+                  "lowerCorner": "20.293868 54.630878",
+                  "upperCorner": "20.653742 54.778788"
+                }
+              },
+              "uri": "ymapsbm1://geo?data=Cgg1MzE0OTQwMhIk0KDQvtGB0YHQuNGPLCDQmtCw0LvQuNC90LjQvdCz0YDQsNC0IgoNwxSkQRU011pC",
+              "Point": {
+                "pos": "20.510137 54.710162"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
